@@ -3,13 +3,13 @@
 An interactive quiz game built using HTML5, CSS3, and JavaScript. This project allows users to test their general knowledge through multiple-choice questions, track their scores, and receive feedback based on their performance.
 
 ## 🌐 Live Demo
-
-()
+(https://rahafjadallah.github.io/Quiz-Game/)
 
 ## 📷 Screenshot
 
-
-
+<img width="1366" height="647" alt="Capture" src="https://github.com/user-attachments/assets/8d114682-b017-460a-94b6-5a9701e8a94f" />
+<img width="1366" height="648" alt="Capture1" src="https://github.com/user-attachments/assets/3a902d96-d773-4d96-86af-205737173d7e" />
+<img width="1366" height="648" alt="Capture2" src="https://github.com/user-attachments/assets/9a3ae8fe-5647-4bbe-963e-49e680a5dd5e" />
 ## ✨ Features
 
 - Interactive start screen.
